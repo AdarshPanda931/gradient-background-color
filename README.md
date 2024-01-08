@@ -1,3 +1,3 @@
-# gradient-background-color :- 
+# gradient-background-color 
 
 This can be use in further project.
